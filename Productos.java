@@ -6,7 +6,7 @@ public class Productos {
   private float precio;
   private int stock;
 
-  public Usuario(int id, String nombre, String categoria, float precio, int stock) {
+  public Productos(int id, String nombre, String categoria, float precio, int stock) {
     this.id = id;
     this.nombre = nombre;
     this.categoria = categoria;
@@ -27,3 +27,4 @@ public class Productos {
     return id + "," + nombre + "," + categoria + "," + precio + "," + stock;
   }
 }
+
