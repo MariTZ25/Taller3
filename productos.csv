@@ -1,0 +1,5 @@
+id,nombre,categoria,precio,stock
+112,Pan,Comida,10300.0,30
+123,Vestido,Ropa,80400.0,20
+272,Osito,Juguete,90000.0,10
+495,Zapatos,Ropa,130000.0,50
